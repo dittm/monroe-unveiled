@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Poem for life (n.d.)</dc:title>
+    <dc:creator>
+        <dc:creator>Marilyn Monroe (wd:Q4616)</dc:creator>
+    </dc:creator>
+    <dc:contributor>Christina Dittmann</dc:contributor>
+    <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+    <dc:date>2010</dc:date>
+    <dc:identifier>
+        <dc:type>ISBN</dc:type>
+        <dc:value>978-0-374-15835-4</dc:value>
+    </dc:identifier>
+    <dc:rights>Copyright &#169; 2010 by LSAS International, Inc. All rights reserved.</dc:rights>
+    <dc:coverage>New York</dc:coverage>
+    <dc:type>Text</dc:type>
+    <dc:description>
+        <dc:type>Pen on paper</dc:type>
+        <dc:extent>One page</dc:extent>
+        <dc:format>
+            <dc:dimensions type="written">
+                <dc:height unit="in">5</dc:height>
+                <dc:width unit="in">8</dc:width>
+            </dc:dimensions>
+        </dc:format>
+    </dc:description>
+</metadata>

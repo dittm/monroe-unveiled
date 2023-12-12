@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Letter to Dr Hohenberg (1956-1957)</dc:title>
+  <dc:creator>
+    <dc:creator>Marilyn Monroe (wd:Q4616)</dc:creator>
+  </dc:creator>
+  <dc:contributor>Christina Dittmann</dc:contributor>
+  <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:identifier>
+    <dc:type>ISBN</dc:type>
+    <dc:value>978-0-374-15835-4</dc:value>
+  </dc:identifier>
+  <dc:rights>Copyright &#169; 2010 by LSAS International, Inc. All rights reserved.</dc:rights>
+  <dc:coverage>New York</dc:coverage>
+  <dc:type>Text</dc:type>
+  <dc:description>
+    <dc:type>Pencil on paper</dc:type>
+    <dc:extent>One page, both sides</dc:extent>
+    <dc:format>
+      <dc:dimensions type="written">
+        <dc:height unit="in">3.75</dc:height>
+        <dc:width unit="in">6.75</dc:width>
+      </dc:dimensions>
+    </dc:format>
+  </dc:description>
+  <dc:date>Approximate date: 1956-1957</dc:date>
+  <dc:relation>
+    <dc:type>Correspondence</dc:type>
+    <dc:sentBy>Marilyn Monroe (wd:Q4616)</dc:sentBy>
+    <dc:receivedBy>Dr. Margaret Hohenberg (wd:Q3846865)</dc:receivedBy>
+  </dc:relation>
+</metadata>
