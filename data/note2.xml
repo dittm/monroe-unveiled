@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poem for life (n.d.)</title>
+                <author ref="wd:Q4616">Marilyn Monroe</author>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Christina Dittmann</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Farrar, Straus and Giroux</publisher>
+                <pubPlace>New York</pubPlace>
+                <date>2010</date>
+                <idno type="ISBN">978-0-374-15835-4</idno>
+                <availability>
+                    <p>Copyright &#169; 2010 by LSAS International, Inc. All rights reserved</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Private Collection</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <p>for life It is rather a determination not to be overwhelmed for work The
+                            truth can only be recalled, never invented</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Pen on paper</p>
+                                </support>
+                                <extent>One page</extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <dimensions type="written">
+                                        <height unit="in">8</height>
+                                        <width unit="in">5</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <p><hi rend="underline">for life</hi><lb/>It is rather a <lb/>determination not to
+                    <lb/>be overwhelmed. <lb/><hi rend="underline">for work</hi>
+                    <lb/>The truth can only <lb/>be recalled, never <lb/>invented.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

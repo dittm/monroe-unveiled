@@ -1,0 +1,65 @@
+/* a.nav-link, a.nav-link.active, a.nav-link.dropdown-toggle, a.dropdown-item, a {
+    color: #000 !important;
+}  */
+
+a.li {
+    color: #000 !important;
+}
+
+/* a.dropdown-item:hover {
+    color: #fff !important;
+} */
+
+.btn-secondary {
+    color: #fff !important;
+}
+
+
+h1 {
+    padding: 0.5em;
+}
+
+.cards {
+    padding: 1em;
+}
+.thumbnail-icon {
+    height: 100px; /* Set the desired height */
+    /* You can add other styles like width, object-fit, etc., as needed */
+}
+
+/* Apply styles to the table */
+#xmlTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Style for table rows */
+  #xmlTable tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Style for table cells */
+  #xmlTable td {
+    padding: 8px;
+  }
+  
+  /* Alternate row background color */
+  #xmlTable tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+/* Style the first column (headers) */
+#xmlTable td:first-child {
+    background-color: #f2f2f2;
+  }
+
+  .accordion-header button, .accordion-header button:focus  {
+    color: rgb(104, 103, 103); /* Change the text color to gray */
+    background-color: #eeeeee; /* Change the background color to a light gray */
+    border-color: rgb(104, 103, 103); /* Change the border color to gray */
+}
+
+.accordion-header button:focus {
+box-shadow: 0 0 0 0.25rem #818FB4;
+}

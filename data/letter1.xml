@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to Dr Hohenberg (1956-1957)</title>
+            <author ref="wd:Q4616">Marilyn Monroe</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Christina Dittmann</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Farrar, Straus and Giroux</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>2010</date>
+            <idno type="ISBN">978-0-374-15835-4</idno>
+            <availability>
+               <p>Copyright &#169; 2010 by LSAS International, Inc. All rights reserved</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>I’ve been wondering myself why I don’t write to you. I thought it has to do
+                     with the part that I’ve been feeling I was taken away from you or that you sent
+                     me away from you with your permission. On the whole, things are going rather
+                     well so far. M.C.A., our agents, and Stein, our lawyer are, have dealt dealing
+                     with Natasha but, we’ll see - I have a strange feeling about Paula. I mean, she
+                     works differently than Lee. Anyway I keep feeling I won’t be able to do the
+                     part when I have too it like a horrible nightmare. but she is a wonderful and
+                     warm person - which also bewilders me Also I guess I didn’t write you before
+                     this because I was waiting to see if I would get shot-first. Arthur writes me
+                     every day, at least that it gives me a little air to breathe, I can't get used
+                     to the fact that he loves me and I keep waiting for him to stop loving me
+                     though I hope he never will, but I keep telling myself, who knows?</p>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>Pencil on paper</p>
+                        </support>
+                        <extent>One page, both sides</extent>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <dimensions type="written">
+                              <height unit="in">3.75</height>
+                              <width unit="in">6.75</width>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1956" notAfter="1957">Approximate date:
+                        1956-1957</origDate>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="wd:Q4616">Marilyn Monroe</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="wd:Q3846865">Dr. Margaret Hohenberg</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <salute>To <persName ref="wd:Q3846865">Dr Hohenberg</persName></salute>
+            </opener>
+            <p><lb/>I’ve been wondering <lb/>myself why I don’t <lb/>write to you. <lb/><del rend="overstrike"
+               >I thought it has to <lb/>do with the part that</del> <lb/>I’ve been feeling I was taken
+               <lb/>away from you or <lb/>that you sent me <lb/>away from you <lb/><del rend="overstrike">with your
+                  permission</del>. <lb/>On the whole, things <lb/>are going along rather <lb/>well so far. <lb/>M.C.A., our
+               agents, and <lb/><persName>Stein</persName>, our lawyer <del rend="overstrike">are</del>,
+               <lb/>have dealt dealing with <persName ref="wd:Q1802795">Natasha</persName> <lb/>but, we’ll see
+               - <lb/>I have a strange <lb/>feeling about <persName ref="wd:Q1805151">Paula</persName>. <lb/>I
+               mean, she works <lb/>differently than <persName ref="wd:Q297945">Lee</persName>. <lb/>Anyway I
+               keep <lb/>feeling I won’t be <pb/>able to do the part <lb/>when I have too it <lb/>like a horrible
+               nightmare. <lb/>but she is a wonderful <lb/>and warm person - which also <lb/>bewilders me <lb/>Also I
+               guess I didn’t <lb/>write you before this <lb/>because I was waiting <lb/>to see if I would get
+               <lb/>shot-first. <lb/><persName ref="wd:Q80596">Arthur</persName> writes me <lb/>every day, at least
+               <del rend="overstrike">that</del> it <lb/>gives me <del rend="overstrike">a
+                  little</del> air to <lb/>breathe, I can't get <lb/>use to the fact that he <lb/>loves me and I
+               keep <lb/>waiting for him to <lb/>stop loving me though I hope <lb/>he never will, but I keep
+               <lb/>telling myself, who knows?</p>
+         </div>
+      </body>
+   </text>
+</TEI>

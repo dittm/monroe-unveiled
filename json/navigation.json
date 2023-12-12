@@ -1,0 +1,16 @@
+[
+    { "label": "Home", "url": "index.html" },
+    { "label": "Project", "url": "project/project.html" },
+    { "label": "Marilyn", "url": "monroe.html" },
+    { "label": "Filmography", "url": "films/filmography.html" },
+    {
+      "label": "Works",
+      "url": "#",
+      "subPages": [
+        { "label": "Poems", "url": "poems.html" },
+        { "label": "Letters", "url": "letters.html" },
+        { "label": "Recipes", "url": "recipes.html" },
+        { "label": "All", "url": "all.html" }
+      ]
+    }
+  ]  
