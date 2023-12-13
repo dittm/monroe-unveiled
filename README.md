@@ -36,6 +36,16 @@ Contributions to enhance the digital edition or add new insights are welcome. Pl
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+...
+
+## Disclaimer on Photos and Copyright
+
+Please note that the images and photos used in this digital edition belong to their respective owners or copyright holders. We do not claim ownership of these images but have included them to provide visual context and enhance the understanding of Marilyn Monroe's life and work.
+
+Where applicable, we have made efforts to appropriately attribute and link to the original sources of these images. However, if you are a copyright holder and believe that your work has been used improperly or without proper attribution, please contact us immediately at [via e-mail](mailto:chdittmann@proton.me) so that we can rectify the situation.
+
+We respect copyright laws and strive to use visual materials in accordance with fair use and attribution principles.
+
 ---
 
 &copy; 2023 Marilyn Unveiled: A Digital Edition. All rights reserved.
