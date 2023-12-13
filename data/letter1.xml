@@ -83,7 +83,7 @@
       <body>
          <div type="letter">
             <opener>
-               <salute>To <persName ref="wd:Q3846865">Dr Hohenberg</persName></salute>
+               <salute>Dear <persName ref="wd:Q3846865">Dr Hohenberg</persName></salute>
             </opener>
             <p><lb/>I’ve been wondering <lb/>myself why I don’t <lb/>write to you. <lb/><del rend="overstrike"
                >I thought it has to <lb/>do with the part that</del> <lb/>I’ve been feeling I was taken
