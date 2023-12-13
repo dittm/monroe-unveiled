@@ -47,5 +47,3 @@ Where applicable, we have made efforts to appropriately attribute and link to th
 We respect copyright laws and strive to use visual materials in accordance with fair use and attribution principles.
 
 ---
-
-&copy; 2023 Marilyn Unveiled: A Digital Edition. All rights reserved.
