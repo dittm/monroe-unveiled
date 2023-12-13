@@ -36,7 +36,7 @@ Contributions to enhance the digital edition or add new insights are welcome. Pl
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-...
+---
 
 ## Disclaimer on Photos and Copyright
 
