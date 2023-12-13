@@ -18,21 +18,48 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-              <!-- Dynamic navigation rendering using Vue.js -->
-              <ul class="navbar-nav" id="nav-vue">
-                <!-- Vue.js will render the dynamic navbar here -->
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="/../index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/../project.html">Project</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/../marilyn-monroe.html">Marilyn</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/../filmography.html">Filmography</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="about" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Works
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item" href="/poems.html">Poems</a></li>
+                    <li><a class="dropdown-item" href="#">Letters</a></li>
+                    <li><a class="dropdown-item" href="/../recipes.html">Recipes</a></li>
+                    <li><a class="dropdown-item" href="/../all.html">All</a></li>
+                  </ul>
+                </li>
               </ul>
             </div>
             <div class="navbar-text">
-              <a class="navbar-brand" href="#"><img src="images/signature.png" width="150px" alt="Marilyn Monroe Signature"></a>
-            </div>
+              <a class="navbar-brand" href="#"><img src="/../images/signature.png" width="150px" alt="Marilyn Monroe Signature"></a>
+            </span>
           </div>
         </nav>
       </header>
-    <main>
+      <main style="padding-top: 60px; padding-bottom: 60px;" class="container-lg py-5">
 
-      <div id="carousel-sm"></div>
-
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="/../images/monroe_header_s.jpg" class="d-block w-100" alt="Photo of Marilyn Monroe.">
+            </div>
+          </div>
+        </div>
+  
           <div class="container">
             <div class="page-header">
                 <h1>Works</h1>
@@ -40,7 +67,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
                 <div class="card mb-4" style="max-width: 540px;">
                     <div class="row g-12">
                       <div class="col-md-4">
-                        <img src="/images/letter1_recto.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="https://d2skn5554g4boz.cloudfront.net/2020-website/643/3463774/large/3463774_1.jpg" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
@@ -53,7 +80,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
                   <div class="card mb-4" style="max-width: 540px;">
                     <div class="row g-12">
                       <div class="col-md-4">
-                        <img src="/images/letter1_recto.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="https://d2skn5554g4boz.cloudfront.net/2020-website/643/3463774/large/3463774_1.jpg" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
@@ -66,7 +93,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
                   <div class="card mb-4" style="max-width: 540px;">
                     <div class="row g-12">
                       <div class="col-md-4">
-                        <img src="/images/letter1_recto.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="https://d2skn5554g4boz.cloudfront.net/2020-website/643/3463774/large/3463774_1.jpg" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
@@ -83,8 +110,28 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
           </main>
           
     
-    <div id="footer"></div>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+          <footer class="text-center text-white" style="background-color: #818FB4;">
+            <div class="container p-4 pb-0">
+              <div class="mb-4">
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+                  ><i class="fab fa-instagram"></i
+                ></a>
+                  </div>
+            </div>
+        
+            <div class="text-center p-3" style="background-color: #435585; color: #fff;">
+              © 2023 Copyright:
+              <a href="https://dittm.github.io/monroe-unveiled/">dittm.github.io/monroe-unveiled</a>
+            </div>
+        
+          </footer>
+          <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue-router@3.5.3/dist/vue-router.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
